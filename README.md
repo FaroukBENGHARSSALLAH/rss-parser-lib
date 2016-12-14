@@ -12,5 +12,5 @@ Some implemeted APIs:
 - [x] Market
 - [x] NBC
 
-You can add your custom API by extending 'RSSParser' abstrcat class and the
-POJO 'News' class.
+You can add your custom API by extending *RSSParser* abstrcat class and the
+POJO *News* class.
