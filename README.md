@@ -15,7 +15,7 @@ Some implemeted APIs:
 You can add your custom API by extending the abstrcat class `RSSParser` and the
 POJO `News` class.
 
-> Maven dependencies : 
+> Maven dependency : 
 ```
     <groupId>com.github.faroukbengharssallah</groupId>
     <artifactId>rss-parser-lib</artifactId>
