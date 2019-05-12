@@ -6,9 +6,9 @@ public class ABCTester {
 
 	public static void main(String[] args) {
 		
-		   // ABCParser parser = new ABCParser("http://www.abc.net.au/radionational/feed/2891138/rss.xml");
+		    ABCParser parser = new ABCParser("http://www.abc.net.au/radionational/feed/2891138/rss.xml");
 		    
-		      ABCIParser iparser = new ABCIParser("http://feeds.abcnews.com/abcnews/technologyheadlines");
+		   //   ABCIParser iparser = new ABCIParser("http://feeds.abcnews.com/abcnews/technologyheadlines");
 		    
 //		    LinkedList<ABCNews> newsList = parser.getNews();
 //		    for (ABCNews news : newsList) {
@@ -20,7 +20,8 @@ public class ABCTester {
 //		                      System.out.println("------------------------------------------------------------ \n");
 //
 //		                     }
-//		    
+//
+		   
 		    
 		    
 		    
